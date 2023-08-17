@@ -1,0 +1,7 @@
+let SET = 0
+SET = 0
+game.splash("Addition Is" + (0 + 0))
+game.splash("Subtraction Is" + (0 - 0))
+game.splash("Multiplication Is" + 0 * 0)
+game.splash("Division Is" + 0 / 0)
+game.splash("Reamainder Is" + 0 % 0)
